@@ -10,6 +10,7 @@ without sidebar tab
 with sidebar tab
 ![](https://github.com/GabrielTenma/dotfiles/raw/master/.mozilla/GabrielDesktop_2018-11-06_16-40-45_1366x768.png)
 
-
+``
 tutorial install cari digoogle, belum buat
-## males.
+males.
+``
