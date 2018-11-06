@@ -3,10 +3,10 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 # dotfiles
 all of my config linux desktop - and useless file(s)
-ada beberapa config yang tidak harus di clone.
+some config is useless.
 
 ### clone dotfiles
-
+git
 ```
 git clone https://github.com/GabrielTenma/dotfiles.git
 ```
