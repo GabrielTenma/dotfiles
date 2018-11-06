@@ -1,7 +1,8 @@
 
-
+<center>
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 ![Mozilla Add-on](https://img.shields.io/amo/stars/dustman.svg)
+</center>
 # dotfiles
 all of my config linux desktop - and useless file(s)
 some config is useless.
