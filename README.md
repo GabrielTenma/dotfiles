@@ -13,9 +13,7 @@ git clone https://github.com/GabrielTenma/dotfiles.git
 
 ### Screenshot
 
-```
-light like pastel
-```
+
 ![alt text](https://github.com/GabrielTenma/dotfiles/raw/master/.screenshot/2018-10-28-213439_1366x768_scrot.png)
 ![alt text](https://github.com/GabrielTenma/dotfiles/raw/master/.screenshot/GabrielDesktop_2018-11-05_%207-13-53_1366x768.png)
-![alt text](https://github.com/GabrielTenma/dotfiles/raw/master/.screenshot/Screenshot_2018-11-03_16-36-39.png)
+
