@@ -1,0 +1,8 @@
+#!/bin/bash
+
+echo "		Gabriel = DnsCrypt	"
+echo ""
+killall dnscrypt-proxy
+echo " > execute dnscrypt"
+sudo dnscrypt-proxy -R cisco 
+#sudo dnscrypt-proxy /usr/local/etc/dnscrypt-proxy.conf
