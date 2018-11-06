@@ -1,0 +1,22 @@
+#!/bin/bash
+echo " LampStack apache.mysql service! // Gabriel"
+PS3=' pilih action untuk service lamp : '
+options=("start" "stop" "status" "keluar")
+select opt in "${options[@]}"
+do
+case $opt in
+"start")
+echo " > eksekusi lamp start!"
+/opt/lampstack-7.1.23-0/mysql/scripts/ctl.sh start;;
+"stop")
+echo " > Kill service lamp!"
+/opt/lampstack-7.1.23-0/mysql/scripts/ctl.sh stop;;
+"status")
+echo " = Check status lamp"
+/opt/lampstack-7.1.23-0/mysql/scripts/ctl.sh status;;
+"keluar")
+break;;
+*) echo "input gak valid ea $REPLY";;
+esac
+done
+
