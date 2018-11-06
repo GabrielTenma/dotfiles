@@ -1,12 +1,13 @@
 
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+![Mozilla Add-on](https://img.shields.io/amo/stars/dustman.svg)
 # dotfiles
 all of my config linux desktop - and useless file(s)
 some config is useless.
 
 ### clone dotfiles
-git
+install first git
 ```
 git clone https://github.com/GabrielTenma/dotfiles.git
 ```
