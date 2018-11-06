@@ -5,12 +5,19 @@ u can enable or disable sidebar tab.
 
 Sidebar Tab for firefox addon: https://addons.mozilla.org/en-US/firefox/addon/tab-center-redux/
 
+
+
 ### Screenshot
+
+
 without sidebar tab
 ![](https://github.com/GabrielTenma/dotfiles/raw/master/.mozilla/GabrielDesktop_2018-11-06_16-40-41_1366x768.png)
 
+
 with sidebar tab
 ![](https://github.com/GabrielTenma/dotfiles/raw/master/.mozilla/GabrielDesktop_2018-11-06_16-40-45_1366x768.png)
+
+
 
 
 untuk yang belom tau
