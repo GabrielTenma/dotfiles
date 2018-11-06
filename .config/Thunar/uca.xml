@@ -1,0 +1,43 @@
+<?xml encoding="UTF-8" version="1.0"?>
+<actions>
+<action>
+	<icon>Terminal</icon>
+	<name>Open Terminal Here</name>
+	<unique-id>1540725750953865-1</unique-id>
+	<command>exo-open --working-directory %f --launch TerminalEmulator</command>
+	<description>Example for a custom action</description>
+	<patterns>*</patterns>
+	<directories/>
+</action>
+<action>
+	<icon>Terminal</icon>
+	<name>Open Terminal Here</name>
+	<unique-id>1540725750954065-2</unique-id>
+	<command>exo-open --working-directory %d --launch TerminalEmulator</command>
+	<description>Open terminal in containing directory</description>
+	<patterns>*</patterns>
+	<audio-files/>
+	<image-files/>
+	<other-files/>
+	<text-files/>
+	<video-files/>
+</action>
+<action>
+	<icon>filefind</icon>
+	<name>Find in this folder</name>
+	<unique-id>1540725750954473-3</unique-id>
+	<command>catfish --path=%f</command>
+	<description>Search for files within this folder</description>
+	<patterns>*</patterns>
+	<directories/>
+</action>
+<action>
+	<icon>document-print</icon>
+	<name>Print file/s</name>
+	<unique-id>1540725750954524-4</unique-id>
+	<command>thunar-print %F</command>
+	<description>Send one or multiple files to the default printer</description>
+	<patterns>*.asc,*.brf,*.css,*.doc,*.docm,*.docx,*.dotm,*.dotx,*.fodg,*.fodp,*.fods,*.fodt,*.gif,*.htm,*.html,*.jpe,*.jpeg,*.jpg,*.odb,*.odf,*.odg,*.odm,*.odp,*.ods,*.odt,*.otg,*.oth,*.otp,*.ots,*.ott,*.pbm,*.pdf,*.pgm,*.png,*.pnm,*.pot,*.potm,*.potx,*.ppm,*.ppt,*.pptm,*.pptx,*.rtf,*.shtml,*.srt,*.text,*.tif,*.tiff,*.txt,*.xbm,*.xls,*.xlsb,*.xlsm,*.xlsx,*.xltm,*.xltx,*.xpm,*.xwd</patterns>
+	<directories/>
+</action>
+</actions>
