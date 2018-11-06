@@ -1,10 +1,11 @@
 # DO NOT EDIT! This file will be overwritten by LXAppearance.
 # Any customization should be done in ~/.gtkrc-2.0.mine instead.
 
-include "/home/reorr/.gtkrc-2.0.mine"
+# --- Gabriel Default gtkrc 2.0 --- 
+include "/home/gabriel/.gtkrc-2.0.mine"
 gtk-theme-name="colorizer"
 gtk-icon-theme-name="Papirus-Adapta-Nokto"
-gtk-font-name="Iosevka 9"
+gtk-font-name="Iosevka 10"
 gtk-cursor-theme-name="capitaine-cursors"
 gtk-cursor-theme-size=16
 gtk-toolbar-style=GTK_TOOLBAR_ICONS
