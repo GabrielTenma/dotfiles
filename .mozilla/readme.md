@@ -5,7 +5,7 @@ u can enable or disable sidebar tab.
 
 Sidebar Tab for firefox addon: https://addons.mozilla.org/en-US/firefox/addon/tab-center-redux/
 
-
+info: this is just firefox theme, [not] startpage.
 
 ### Screenshot
 
