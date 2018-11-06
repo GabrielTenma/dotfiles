@@ -4,6 +4,6 @@ ada beberapa config yang tidak harus di clone.
 
 ### clone dotfiles
 
-'''
+```
 git clone https://github.com/GabrielTenma/dotfiles.git
-'''
+```
