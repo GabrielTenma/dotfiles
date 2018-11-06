@@ -1,5 +1,5 @@
 
-[![Build Status](https://i.imgur.com/E7Smd3T.png)
+
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 # dotfiles
 all of my config linux desktop - and useless file(s)
