@@ -6,7 +6,7 @@
 
 # dotfiles
 all of my config linux desktop - and useless file(s)
-some config is useless.
+
 
 ### clone dotfiles
 install first git
