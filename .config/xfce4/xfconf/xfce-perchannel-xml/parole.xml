@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channel name="parole" version="1.0">
+  <property name="video" type="empty">
+    <property name="videosink" type="empty"/>
+  </property>
+  <property name="parole" type="empty">
+    <property name="plugins" type="empty"/>
+  </property>
+  <property name="subtitles" type="empty">
+    <property name="font" type="string" value="Sans Bold 20"/>
+  </property>
+  <property name="folders" type="empty">
+    <property name="last-used-media" type="string" value="/media/gabriel/Home/Users/raviz/Downloads/Music"/>
+  </property>
+  <property name="window" type="empty">
+    <property name="maximized" type="bool" value="false"/>
+    <property name="width" type="int" value="760"/>
+    <property name="height" type="int" value="420"/>
+  </property>
+  <property name="audio" type="empty">
+    <property name="volume" type="int" value="100"/>
+  </property>
+  <property name="playlist" type="empty">
+    <property name="show-playlist" type="bool" value="false"/>
+  </property>
+</channel>
