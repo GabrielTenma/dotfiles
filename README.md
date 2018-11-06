@@ -10,6 +10,7 @@ some config is useless.
 
 ### clone dotfiles
 install first git
+then open ur terminal, enter command
 ```
 git clone https://github.com/GabrielTenma/dotfiles.git
 ```
