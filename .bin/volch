@@ -1,0 +1,34 @@
+#!/bin/sh
+
+change_volume() {
+    amixer -q -D pulse set Master "$1" unmute
+}
+
+notify_send() {
+    notify-send --expire-time=2000 "Audio Volume" " Volume Changed  -  $(printf %s $(amixer get Master | awk '$0~/%/{print $5}' | tr -d '[]'))" --icon='/home/gabriel/Pictures/others/NotifyIcon/headphone.jpg'
+}
+
+main() {
+	
+    case "$1" in
+	up)
+		change_volume 2%+
+	 	notify_send
+
+         ;;
+      down)
+		change_volume 2%-
+		notify_send
+         ;;
+      toggle)
+		change_volume toggle
+	 ;;
+     *)
+         printf "volume <command>\n"
+         printf "         up \n"
+         printf "         down\n"
+	 printf "	  toggle\n"
+    esac
+}
+
+main "$@"
