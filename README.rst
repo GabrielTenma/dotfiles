@@ -6,7 +6,9 @@
 :Origin: Gabriel
 :Disclaimer: Clone it at your own risk.. 
 
-# dotfiles
+== 
+dotfiles
+==
 all of my config linux desktop - and useless file(s)
 
 
