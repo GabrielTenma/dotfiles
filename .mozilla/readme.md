@@ -18,12 +18,12 @@ with sidebar tab
 ![](https://github.com/GabrielTenma/dotfiles/raw/master/.mozilla/GabrielDesktop_2018-11-06_16-40-45_1366x768.png)
 
 
-
+### Installation
 
 untuk yang belom tau
 tutorial install cari digoogle
-belum buat
-males.
-
+belum buat, males.
+```
 sy hanya sediain temanya aja
 kapan kapan buat kalo niat
+```
