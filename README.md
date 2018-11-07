@@ -3,6 +3,8 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 ![Mozilla Add-on](https://img.shields.io/amo/stars/dustman.svg)
 
+:Origin: Gabriel
+:Disclaimer: Clone it at your own risk.. 
 
 # dotfiles
 all of my config linux desktop - and useless file(s)
