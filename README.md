@@ -16,29 +16,34 @@ Disclamer: Clone it at your own risk..
 
 
 ## dotfiles
+all of my config linux desktop - and useless file(s)
+<br>
 <br>
 
-all of my config linux desktop - and useless file(s)
-
-
 ### clone dotfiles
-
-
 install first git
 then open ur terminal, enter command
 
 ```
 $ git clone https://github.com/GabrielTenma/dotfiles.git
 ```
-
+<br>
+<br>
 
 
 ## Screenshot
 
+<p align="center">
+  <img src="https://github.com/GabrielTenma/dotfiles/raw/master/.screenshot/2018-10-28-213439_1366x768_scrot.png)" alt="Sagiri"
+       width="654" height="450">
+</p>
 
-### light like pastel
-![](https://github.com/GabrielTenma/dotfiles/raw/master/.screenshot/2018-10-28-213439_1366x768_scrot.png)
+<p align="center">
+  <img src="https://github.com/GabrielTenma/dotfiles/raw/master/.screenshot/GabrielDesktop_2018-11-06_%208-58-42_1366x768.png)" alt="Sagiri"
+       width="654" height="450">
+</p>
+
         
 
-![](https://github.com/GabrielTenma/dotfiles/raw/master/.screenshot/GabrielDesktop_2018-11-06_%208-58-42_1366x768.png)
+
          
