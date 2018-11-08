@@ -1,4 +1,7 @@
 
+<p align="center">
+  <img src="https://i.imgur.com/dTmSchZ.png" alt="Size Limit example">
+</p>
 
 
 <br>
@@ -8,6 +11,7 @@
 Dotfiles are used to customize your system. The “dotfiles” name is derived from the configuration files in Unix-like systems that start with a dot (e.g. .bash_profile and .gitconfig). For normal users, this indicates these are not regular documents, and by default are hidden in directory listings. For power users, however, they are a core tool belt.
 <br>
 Disclamer: Clone it at your own risk.. 
+<br>
 <br>
 <br>
 
