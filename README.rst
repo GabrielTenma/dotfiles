@@ -6,13 +6,16 @@
 :Origin: Gabriel
 :Disclaimer: Clone it at your own risk.. 
 
-== 
+=========
 dotfiles
-==
+=========
+
 all of my config linux desktop - and useless file(s)
 
 
-### clone dotfiles
+clone dotfiles
+=========
+
 install first git
 then open ur terminal, enter command
 ```
