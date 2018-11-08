@@ -9,7 +9,7 @@ Dotfiles are used to customize your system. The “dotfiles” name is derived f
 <br>
 <p align="center">
   <img src="https://i.imgur.com/nZj5mm1.png" alt="Gabriel DotFiles"
-       width="753" height="93">
+       width="753" height="50">
 </p>
 
 Disclamer: Clone it at your own risk.. 
@@ -19,6 +19,7 @@ Disclamer: Clone it at your own risk..
 
 ## dotfiles
 all of my config linux desktop - and useless file(s)
+<br>
 <br>
 <br>
 
