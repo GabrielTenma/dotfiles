@@ -1,8 +1,10 @@
 
 <p align="center">
-  <img src="https://i.imgur.com/dTmSchZ.png" alt="Size Limit example">
+  <img src="https://i.imgur.com/dTmSchZ.png" alt="Size Limit example" width="500" height="500">
 </p>
 
+
+<br>
 
 ## introduction
 
@@ -33,13 +35,11 @@ $ git clone https://github.com/GabrielTenma/dotfiles.git
 ## Screenshot
 
 <p align="center">
-  <img src="https://github.com/GabrielTenma/dotfiles/raw/master/.screenshot/2018-10-28-213439_1366x768_scrot.png" alt="Sagiri"
-       width="654" height="450">
+  <img src="https://github.com/GabrielTenma/dotfiles/raw/master/.screenshot/2018-10-28-213439_1366x768_scrot.png" alt="Sagiri">
 </p>
 
 <p align="center">
-  <img src="https://github.com/GabrielTenma/dotfiles/raw/master/.screenshot/GabrielDesktop_2018-11-06_%208-58-42_1366x768.png" alt="Sagiri"
-       width="654" height="450">
+  <img src="https://github.com/GabrielTenma/dotfiles/raw/master/.screenshot/GabrielDesktop_2018-11-06_%208-58-42_1366x768.png" alt="Sagiri">
 </p>
 
         
