@@ -1,8 +1,9 @@
-<font color="#F05D48">
+
 <p align="center">
   <img src="https://i.imgur.com/dTmSchZ.png" alt="its gabriel!">
 </p>
-<h1 align="center">dotfiles</h1>
+<a href="https://github.com/GabrielTenma"><img src="https://img.shields.io/badge/Built%20For-Laralum-orange.svg" alt="Gabriel"></a>
+<a href="https://github.com/GabrielTenma"><img src="https://poser.pugx.org/laralum/customization/d/total.svg" alt="Downloads"></a>
   
 # introduction
 Dotfiles are used to customize your system. The “dotfiles” name is derived from the configuration files in Unix-like systems that start with a dot (e.g. .bash_profile and .gitconfig). For normal users, this indicates these are not regular documents, and by default are hidden in directory listings. For power users, however, they are a core tool belt.
@@ -32,7 +33,7 @@ $ git clone https://github.com/GabrielTenma/dotfiles.git
 <p align="center">
   <img src="https://github.com/GabrielTenma/dotfiles/raw/master/.screenshot/GabrielDesktop_2018-11-06_%208-58-42_1366x768.png" alt="Sagiri">
 </p>
-</font>
+
 
 
          
