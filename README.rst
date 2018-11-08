@@ -2,7 +2,14 @@
 ガヴリール - Gabriel dotfiles
 ########################################
 
+.. class:: no-web no-pdf
+
 |pypi| |unix_build| |coverage| |gitter|
+
+
+
+.. contents::
+
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 ![Mozilla Add-on](https://img.shields.io/amo/stars/dustman.svg)
