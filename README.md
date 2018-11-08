@@ -1,10 +1,11 @@
 <font color="#F05D48">
 <p align="center">
-  <img src="https://i.imgur.com/dTmSchZ.png" alt="Size Limit example">
+  <img src="https://i.imgur.com/dTmSchZ.png" alt="its gabriel!">
 </p>
-
+<h1 align="center">dotfiles</h1>
+  
 # introduction
-<a><img src="https://github.com/GabrielTenma/dotfiles/raw/master/github.resource/desc.svg"/></a>
+Dotfiles are used to customize your system. The “dotfiles” name is derived from the configuration files in Unix-like systems that start with a dot (e.g. .bash_profile and .gitconfig). For normal users, this indicates these are not regular documents, and by default are hidden in directory listings. For power users, however, they are a core tool belt.
 <br>
 <b> Disclamer: Clone it at your own risk.. </b> 
 <br>
