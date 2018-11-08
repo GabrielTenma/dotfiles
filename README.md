@@ -14,6 +14,8 @@ Dotfiles are used to customize your system. The “dotfiles” name is derived f
 
 Disclamer: Clone it at your own risk.. 
 
+<br>
+<br>
 
 ## dotfiles
 all of my config linux desktop - and useless file(s)
@@ -34,12 +36,12 @@ $ git clone https://github.com/GabrielTenma/dotfiles.git
 ## Screenshot
 
 <p align="center">
-  <img src="https://github.com/GabrielTenma/dotfiles/raw/master/.screenshot/2018-10-28-213439_1366x768_scrot.png)" alt="Sagiri"
+  <img src="https://github.com/GabrielTenma/dotfiles/raw/master/.screenshot/2018-10-28-213439_1366x768_scrot.png" alt="Sagiri"
        width="654" height="450">
 </p>
 
 <p align="center">
-  <img src="https://github.com/GabrielTenma/dotfiles/raw/master/.screenshot/GabrielDesktop_2018-11-06_%208-58-42_1366x768.png)" alt="Sagiri"
+  <img src="https://github.com/GabrielTenma/dotfiles/raw/master/.screenshot/GabrielDesktop_2018-11-06_%208-58-42_1366x768.png" alt="Sagiri"
        width="654" height="450">
 </p>
 
