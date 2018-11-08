@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://i.imgur.com/JLnQgvx.png" alt="its GabrielTenma">
+  <img src="https://i.imgur.com/JLnQgvx.png" alt="its Vignette!" width="500" height="400">
 </p>
 
 # introduction
