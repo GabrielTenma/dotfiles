@@ -12,13 +12,13 @@ Disclamer: Clone it at your own risk..
 <br>
 <br>
 
-## dotfiles
+# dotfiles
 all of my config linux desktop - and useless file(s)
 <br>
 <br>
 <br>
 
-### clone dotfiles
+# clone dotfiles
 install first git
 then open ur terminal, enter command
 
@@ -29,7 +29,7 @@ $ git clone https://github.com/GabrielTenma/dotfiles.git
 <br>
 
 
-## Screenshot
+# Screenshot
 
 <p align="center">
   <img src="https://github.com/GabrielTenma/dotfiles/raw/master/.screenshot/2018-10-28-213439_1366x768_scrot.png" alt="Sagiri">
