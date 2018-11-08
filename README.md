@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://i.imgur.com/dTmSchZ.png" alt="its GabrielTenma">
+  <img src="https://i.imgur.com/JLnQgvx.png" alt="its GabrielTenma">
 </p>
 
 # introduction
