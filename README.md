@@ -8,10 +8,9 @@
 <svg version="1.1" 
      xmlns="http://www.w3.org/2000/svg"
      xmlns:xlink="http://www.w3.org/1999/xlink"
-     width="100" height="50"
->
+     width="100" height="50">
   <text font-size="16" x="10" y="20">
-    <tspan fill="#F3A73A">Dotfiles are used to customize your system. The “dotfiles” name is derived from the configuration files in Unix-like systems that start with a dot (e.g. .bash_profile and .gitconfig). For normal users, this indicates these are not regular documents, and by default are hidden in directory listings. For power users, however, they are a core tool belt.</tspan>!
+    <tspan fill="green">Dotfiles are used to customize your system. The “dotfiles” name is derived from the configuration files in Unix-like systems that start with a dot (e.g. .bash_profile and .gitconfig). For normal users, this indicates these are not regular documents, and by default are hidden in directory listings. For power users, however, they are a core tool belt.</tspan>!
   </text>
 </svg>
 <br>
