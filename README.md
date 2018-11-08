@@ -6,7 +6,7 @@
 ## introduction
 
 Dotfiles are used to customize your system. The “dotfiles” name is derived from the configuration files in Unix-like systems that start with a dot (e.g. .bash_profile and .gitconfig). For normal users, this indicates these are not regular documents, and by default are hidden in directory listings. For power users, however, they are a core tool belt.
-
+<br>
 <p align="center">
   <img src="https://i.imgur.com/nZj5mm1.png" alt="Gabriel DotFiles"
        width="753" height="93">
@@ -16,7 +16,7 @@ Disclamer: Clone it at your own risk..
 
 
 ## dotfiles
-
+<br>
 
 all of my config linux desktop - and useless file(s)
 
