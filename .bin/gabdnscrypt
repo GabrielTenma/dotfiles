@@ -4,5 +4,6 @@ echo "		Gabriel = DnsCrypt	"
 echo ""
 killall dnscrypt-proxy
 echo " > execute dnscrypt"
+echo "nameserver 127.0.0.1" > /etc/resolv.conf
 sudo dnscrypt-proxy -R cisco 
 #sudo dnscrypt-proxy /usr/local/etc/dnscrypt-proxy.conf
