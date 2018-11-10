@@ -25,7 +25,7 @@ $ git clone https://github.com/GabrielTenma/dotfiles.git
 ## Screenshot
 
 <p align="center">
-  <img src="https://github.com/GabrielTenma/dotfiles/raw/master/.screenshot/2018-10-28-213439_1366x768_scrot.png" alt="Sagiri">
+  <img src="https://github.com/GabrielTenma/dotfiles/raw/master/.screenshot/GabrielDesktop_2018_11_10_20-00-32-1366x768.png" alt="Kawaii~">
 </p>
 
 <p align="center">
