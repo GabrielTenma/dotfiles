@@ -25,11 +25,15 @@ $ git clone https://github.com/GabrielTenma/dotfiles.git
 ## Screenshot
 
 <p align="center">
-  <img src="https://github.com/GabrielTenma/dotfiles/raw/master/.screenshot/GabrielDesktop_2018_11_14_20-12-57-1366x768.png" alt="Kawaii~">
+  <img src="https://github.com/GabrielTenma/dotfiles/raw/master/.screenshot/GabrielDesktop_2018_11_15_19-08-12-1366x768.png" alt="Kawaii~">
 </p>
 
 <p align="center">
-  <img src="https://github.com/GabrielTenma/dotfiles/raw/master/.screenshot/GabrielDesktop_2018-11-06_%208-58-42_1366x768.png" alt="Sagiri">
+  <img src="https://github.com/GabrielTenma/dotfiles/raw/master/.screenshot/2018-11-15-190934_1366x768_scrot.png" alt="nyan">
+</p>
+
+<p align="center">
+  <img src="https://github.com/GabrielTenma/dotfiles/raw/master/.screenshot/GabrielDesktop_2018_11_15_19-18-25-1366x768.png" alt="full">
 </p>
 
 
