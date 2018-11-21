@@ -23,7 +23,9 @@ $ git clone https://github.com/GabrielTenma/dotfiles.git
 
 
 ## Screenshot
-
+<p align="center">
+  <img src="https://github.com/GabrielTenma/dotfiles/raw/master/.screenshot/GabrielDesktop_2018_11_21_21-01-44-1366x768.png" alt="megane">
+  </p>
 <p align="center">
   <img src="https://github.com/GabrielTenma/dotfiles/raw/master/.screenshot/GabrielDesktop_2018_11_15_19-08-12-1366x768.png" alt="Kawaii~">
 </p>
