@@ -29,10 +29,6 @@ $ git clone https://github.com/GabrielTenma/dotfiles.git
 </p>
 
 <p align="center">
-  <img src="https://github.com/GabrielTenma/dotfiles/raw/master/.screenshot/2018-11-15-190934_1366x768_scrot.png" alt="nyan">
-</p>
-
-<p align="center">
   <img src="https://github.com/GabrielTenma/dotfiles/raw/master/.screenshot/GabrielDesktop_2018_11_20_20-23-33-1366x768.png" alt="full">
 </p>
 
