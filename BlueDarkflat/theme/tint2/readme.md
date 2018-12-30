@@ -1,2 +1,2 @@
 ## tint2
-theme - zipped!
+theme - paste to /usr/share/tint2/<here>
