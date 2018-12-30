@@ -8,3 +8,5 @@
 - Panel   : tint2
 - WM      : openbox
 - running : sublime, feh, chromium, urxvt
+- font    : Segoe UI
+- terminal: urxvt
