@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img src="https://i.imgur.com/JLnQgvx.png" alt="its Vignette!" width="400" height="400">
+  <b>Gab. configuration files</b>
 </p>
 
 # introduction
